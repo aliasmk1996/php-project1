@@ -1,0 +1,47 @@
+body{
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #0b172a;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+h1{
+    font-family: Verdana,Arial,sans-serif;
+    font-size: 3em;
+    line-height: 2em;
+    color: #bc4123;
+    background-color:#0b172a;
+    text-align: center;
+}
+h2{
+    font-family: Verdana,Arial,sans-serif;
+    font-size: 2em;
+    color: #ffcd24;
+}
+
+p{
+    font-family: Verdana,Arial,sans-serif;
+    font-size: 1.3em;
+    color: snow;
+}
+li{
+    background-color: aquamarine;
+    font-family: Verdana,Arial,sans-serif;
+    font-size: 1em;
+    color: snow;
+}
+footer{
+       margin-top: 30px;
+       font-style: italic;
+       font-size: .60em;
+       text-align: center;
+       color: snow;
+       
+}
